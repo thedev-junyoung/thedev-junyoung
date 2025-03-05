@@ -41,7 +41,7 @@
 
 
 <!-- 방법 1: github-readme-streak-stats와 함께 사용할 수 있는 다른 언어 통계 서비스 -->
-![Top Langs](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=thedev-junyoung&theme=radical)
+![Top Langs](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=thedev-junyoung&theme=radical&v=1)
 
 
 
