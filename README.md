@@ -37,18 +37,6 @@
 > **더 나은 성장을 위해 끊임없이 배우고, 도전합니다.**
 
 
-
-
-
-
-
-
-
-
-
-<!-- 방법 1: github-readme-streak-stats와 함께 사용할 수 있는 다른 언어 통계 서비스 -->
-![Top Langs](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=thedev-junyoung&theme=radical)
-
-
+[![Top Langs](https://github-stats-alpha.vercel.app/api?username=thedev-junyoung)](https://github-stats-alpha.vercel.app)
 
 
