@@ -4,7 +4,6 @@
 ### Get in Touch
 
 [![Tech Blog Badge](http://img.shields.io/badge/Blog-Visit-orange?style=flat-square&logo=hashnode&link=https://blog.cloudtest.shop)](https://velog.io/@thedev_junyoung/about) 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/junyoung-dev)](https://www.linkedin.com/in/junyoung-jeon-5a00722ba/)
 
 ---
 
