@@ -37,8 +37,8 @@
 ---
 
 ### 📈 GitHub Stats
-![Junyoung's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Junyoung-Dev&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Junyoung-Dev&layout=compact&theme=tokyonight)
+![Junyoung's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Junyoung-Dev&show_icons=true&theme=tokyonight&count_private=true&token=${{ secrets.PAT_GITHUB_STATS }})
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Junyoung-Dev&layout=compact&theme=tokyonight&count_private=true&token=${{ secrets.PAT_GITHUB_STATS }})
 
 ---
 
