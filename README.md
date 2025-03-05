@@ -36,8 +36,6 @@
 > "문제 해결을 위한 모든 수단과 방법을 고민하는 개발자입니다."
 > **더 나은 성장을 위해 끊임없이 배우고, 도전합니다.**
 
-[![Top Langs](https://github-stats-alpha.vercel.app/api?username=thedev-junyoung)](https://github-stats-alpha.vercel.app)
-
 
 
 
