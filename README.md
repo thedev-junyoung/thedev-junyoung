@@ -1,3 +1,4 @@
+
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJunyoung-Dev&count_bg=%2376FB11&title_bg=%23198BD7&icon=github.svg&icon_color=%23000000&title=Visitors&edge_flat=false)](https://hits.seeyoufarm.com)
 
 ### Get in Touch
@@ -39,3 +40,8 @@
 
 > "문제 해결을 위한 모든 수단과 방법을 고민하는 개발자입니다."
 > **더 나은 성장을 위해 끊임없이 배우고, 도전합니다.**
+
+[![Top Langs](https://github-stats-alpha.vercel.app/api?username=thedev-junyoung)](https://github-stats-alpha.vercel.app)
+
+
+
