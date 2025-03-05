@@ -1,5 +1,5 @@
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJunyoung-Dev&count_bg=%2376FB11&title_bg=%23198BD7&icon=github.svg&icon_color=%23000000&title=Visitors&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fthedev-junyoung&count_bg=%2376FB11&title_bg=%23198BD7&icon=github.svg&icon_color=%23000000&title=Visitors&edge_flat=false)](https://hits.seeyoufarm.com)
 
 ### Get in Touch
 
@@ -17,7 +17,7 @@
 ### About Me
 - **백엔드 개발자**로서 **Java, Python, Spring Boot, FastAPI**를 활용한 시스템 설계 및 개발 경험 다수
 - **FastAPI를 활용한 MVP 개발 및 Spring Boot 마이그레이션 경험**
-- **AI 캐싱 및 벡터스토어를 활용한 데이터 처리**
+- **벡터 데이터베이스를 활용한 AI 검색 시스템 구현 및 캐싱 최적화 경험**
 
 ---
 
@@ -35,6 +35,11 @@
 - **TDD 및 대용량 데이터 처리 관련 학습 병행**
 - **CS 기반 문제 해결력을 높이기 위해 '컴퓨터 밑바닥의 비밀'을 포함한 저수준 시스템 학습 진행 중**
 
+
+
+## 📊 GitHub 통계
+![GitHub 통계](https://raw.githubusercontent.com/thedev-junyoung/github-stats/master/generated/overview.svg)
+![언어 통계](https://raw.githubusercontent.com/thedev-junyoung/github-stats/master/generated/languages.svg)
 
 ---
 
