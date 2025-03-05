@@ -4,7 +4,7 @@ on:
     - cron: "0 0 * * *"  # 매일 자정 실행
   workflow_dispatch:  # 수동 실행 가능
 
-permissions: 
+permissions:
   contents: write  # ✅ 저장소에 푸시할 권한 부여
 
 jobs:
@@ -17,15 +17,15 @@ jobs:
           persist-credentials: false  # ✅ 기본 GitHub Actions 인증 비활성화 (토큰 사용)
 
       - name: Fetch GitHub Stats
-        run: curl -o stats.svg "https://github-readme-stats.vercel.app/api?username=Junyoung-Dev&show_icons=true&theme=tokyonight&count_private=true&token=${{ secrets.PAT_GITHUB_STATS }}"
+        run: curl -o stats.svg "https://github-readme-stats.vercel.app/api?username=thedev-junyoung&show_icons=true&theme=tokyonight&count_private=true&token=${{ secrets.PAT_GITHUB_STATS }}"
 
       - name: Commit and Push
         env:
-          GITHUB_TOKEN: ${{ secrets.PAT_GITHUB_STATS }}  # ✅ GitHub Token 사용
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}  # ✅ GitHub Token 사용
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
           git add stats.svg
-          git commit -m "Update GitHub Stats"
-          git push https://x-access-token:${{ secrets.PAT_GITHUB_STATS }}@github.com/${{ github.repository }}.git HEAD:main
+          git commit -m "Update GitHub Stats" || echo "No changes to commit"
+          git push https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git HEAD:main
 
