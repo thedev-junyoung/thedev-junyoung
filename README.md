@@ -7,10 +7,6 @@
 
 ---
 
-> "기본기, 지속적인 성장, Simple is Best"
-
----
-
 ### About Me
 - **백엔드 개발자**로서 **Java, Python, Spring Boot, FastAPI**를 활용한 시스템 설계 및 개발 경험 다수
 - **FastAPI를 활용한 MVP 개발 및 Spring Boot 마이그레이션 경험**
