@@ -36,11 +36,6 @@
 - **CS 기반 문제 해결력을 높이기 위해 '컴퓨터 밑바닥의 비밀'을 포함한 저수준 시스템 학습 진행 중**
 
 
-
-## 📊 GitHub 통계
-![GitHub 통계](https://raw.githubusercontent.com/thedev-junyoung/github-stats/master/generated/overview.svg)
-![언어 통계](https://raw.githubusercontent.com/thedev-junyoung/github-stats/master/generated/languages.svg)
-
 ---
 
 > "문제 해결을 위한 모든 수단과 방법을 고민하는 개발자입니다."
