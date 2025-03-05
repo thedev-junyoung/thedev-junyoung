@@ -14,7 +14,7 @@
 
 ![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=thedev-junyoung&theme=radical&v=3&count_private=true)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thedev-junyoung&show_icons=true&theme=radical&count_private=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thedev-junyoung&show_icons=true&theme=radical&count_private=true&cache_seconds=14400)
 
 
 
