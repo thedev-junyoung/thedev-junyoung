@@ -34,14 +34,6 @@
 - **TDD 및 대용량 데이터 처리 관련 학습 병행**
 - **CS 기반 문제 해결력을 높이기 위해 '컴퓨터 밑바닥의 비밀'을 포함한 저수준 시스템 학습 진행 중**
 
----
-
-
-
-### 📈 GitHub Stats
-![Junyoung's GitHub Stats](https://github-readme-stats.vercel.app/api?username=thedev-junyoung&show_icons=true&theme=tokyonight&count_private=true&v=2)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thedev-junyoung&layout=compact&theme=tokyonight&count_private=true&v=2)
-
 
 ---
 
