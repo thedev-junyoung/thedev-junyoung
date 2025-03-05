@@ -44,4 +44,11 @@
 [![Top Langs](https://github-stats-alpha.vercel.app/api?username=thedev-junyoung)](https://github-stats-alpha.vercel.app)
 
 
+![Junyoung's github stats](https://github-readme-stats.vercel.app/api?username=thedev-junyoung&show_icons=true&theme=tokyonight&count_private=true)
+
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thedev-junyoung&layout=compact&theme=tokyonight)
+
+
 
