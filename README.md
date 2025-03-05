@@ -8,8 +8,6 @@
 
 ---
 
-## Backend Developer
-
 > "기본기, 지속적인 성장, Simple is Best"
 
 ---
