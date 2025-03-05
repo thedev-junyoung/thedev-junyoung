@@ -22,7 +22,7 @@
 ---
 
 ### Tech Stack
-#### **Backend**
+
 - **Languages**: Java, Python
 - **Frameworks**: Spring Boot, FastAPI
 - **Databases**: PostgreSQL, MySQL
@@ -44,11 +44,18 @@
 [![Top Langs](https://github-stats-alpha.vercel.app/api?username=thedev-junyoung)](https://github-stats-alpha.vercel.app)
 
 
-![Junyoung's github stats](https://github-readme-stats.vercel.app/api?username=thedev-junyoung&show_icons=true&theme=tokyonight&count_private=true)
 
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thedev-junyoung&layout=compact&theme=tokyonight)
+
+
+
+
+
+
+<!-- 방법 1: github-readme-streak-stats와 함께 사용할 수 있는 다른 언어 통계 서비스 -->
+![Top Langs](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=thedev-junyoung&theme=radical)
+
 
 
 
