@@ -36,9 +36,6 @@
 
 ---
 
-### 📈 GitHub Stats
-![Junyoung's GitHub Stats](https://github-readme-stats.vercel.app/api?username=thedev-junyoung&show_icons=true&theme=tokyonight&count_private=true&v=2)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thedev-junyoung&layout=compact&theme=tokyonight&count_private=true&v=2)
 
 
 ### 📈 GitHub Stats
