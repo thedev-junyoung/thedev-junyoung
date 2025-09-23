@@ -1,8 +1,7 @@
 > "문제 해결을 위한 모든 수단과 방법을 고민하는 백엔드 개발자."
 
-- **주요 관심사:** 백엔드 개발, Testable, OOP, Redis/Kafka를 활용한 대용량 처리(동시성 이슈)
-- **사용 기술:** Java, Python, Spring Boot, FastAPI, PostgreSQL, Redis  
-- **현재:** 리걸테크 스타트업에서 백엔드 개발 담당  
+- **주요 관심사:** 백엔드 개발, Testable, OOP
+- **사용 기술:** Java, Go, Spring Boot, Ehco, PostgreSQL, Redis  
 
 ---
 
