@@ -7,12 +7,12 @@
 
 ## 📊 **GitHub Stats**
 
+![](https://github-readme-stats.vercel.app/api?username=thedev-junyoung&show_icons=true&theme=tokyonight&hide_border=true)
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=thedev-junyoung&theme=tokyonight)
 
+![](https://github-readme-activity-graph.vercel.app/graph?username=thedev-junyoung&theme=tokyo-night&hide_border=true)
 
 <a href="https://hhpluscertificateofcompletion.oopy.io/">
   <img src="https://static.spartacodingclub.kr/hanghae99/plus/completion/badge_black.svg" />
 </a>
-
-![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=thedev-junyoung.thedev-junyoung)
